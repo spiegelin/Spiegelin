@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👾 About Me:
 🎓 Currently studying Computer Science at Tecnológico de Monterrey, Campus Guadalajara.<br>💻 Learning Web Development.<br>📚 Taking as many courses as I can.<br>🎺 I'm a trumpeter in a Mariachi group.
 
 
