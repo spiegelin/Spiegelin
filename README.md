@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Spiegelin&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Some Inspiration
-![The people who are crazy enough to think that they can change the world are the ones who do - Steve Jobs]
+The people who are crazy enough to think that they can change the world are the ones who do - Steve Jobs
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Spiegelin&icon=0&color=0)](https://visitcount.itsvg.in)
