@@ -11,8 +11,10 @@
 # 📖 Certifications and Courses
 MITx
 - Introduction to Computer Science Using Python 
+
 HARVARDx 
 - Introduction to Computer Science (CS50)
+
 Udemy 
 - The Complete 2023 Web Development Bootcamp
 
