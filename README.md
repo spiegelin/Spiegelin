@@ -14,6 +14,7 @@ HARVARDx
 
 Udemy 
 - The Complete 2023 Web Development Bootcamp
+- Flutter & Dart - The Complete Guide [2023 Edition]
 
 
 # 🖥 Tech Stack:
