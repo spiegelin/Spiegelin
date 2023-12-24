@@ -4,10 +4,12 @@
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/diego15.espejo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/diego-espejo-spiegel) 
+
+<!--
 <a href="mailto:despejo1507@gmail.com" style="padding: 0;">
   <img src="https://es.logodownload.org/wp-content/uploads/2019/06/gmail-logo-81.png" alt="Gmail" width="70">
 </a>
-
+-->
 
 
 # 📖 Certifications and Courses
