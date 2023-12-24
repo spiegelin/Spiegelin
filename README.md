@@ -3,7 +3,8 @@
 
 
 # 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/diego15.espejo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/diego-espejo-spiegel) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/diego15.espejo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/diego-espejo-spiegel) [![Gmail](https://logos-world.net/wp-content/uploads/2020/11/Gmail-Emblem.png)](mailto:despejo1507@gmail.com){ width=50px }
+
 
 # 📖 Certifications and Courses
 MITx
