@@ -19,8 +19,13 @@ MITx
 HARVARDx 
 - Introduction to Computer Science (CS50)
 
-Udemy 
+The App Brewery
 - The Complete 2023 Web Development Bootcamp
+
+Zero To Mastery Academy
+- Data Structures and Algorithms
+
+Udemy
 - Flutter & Dart - The Complete Guide [2023 Edition]
 
 Lean Six Sigma
