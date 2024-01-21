@@ -22,6 +22,9 @@ HARVARDx
 The App Brewery
 - The Complete 2023 Web Development Bootcamp
 
+CodeStars
+- The Complete Ethical Hacker Course
+
 Zero To Mastery Academy
 - Data Structures and Algorithms
 
