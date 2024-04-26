@@ -13,6 +13,9 @@
 
 
 # 📖 Certifications and Courses
+CompTIA
+- Security+
+
 MITx
 - Introduction to Computer Science Using Python 
 
