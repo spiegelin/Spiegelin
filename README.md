@@ -1,5 +1,5 @@
 # 👾 About Me:
-🎓 Currently studying Cybersecurity and Computer Science at Tecnológico de Monterrey, Campus Guadalajara.<br>💻 Learning Web Development.<br>📚 Taking as many courses as I can.<br>🎺 I'm a trumpeter in a Mariachi group.
+🎓 Currently studying Cybersecurity and Computer Science at Tecnológico de Monterrey.<br>💻 Learning Penetration Testing.<br>📚 Next objective: OSCP.<br>🎺 I'm a trumpeter in a Mariachi group.
 
 
 # 🌐 Socials:
@@ -15,6 +15,9 @@
 # 📖 Certifications and Courses
 CompTIA
 - Security+
+
+Microsoft
+- SC-200
 
 MITx
 - Introduction to Computer Science Using Python 
