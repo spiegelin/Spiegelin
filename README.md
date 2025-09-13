@@ -9,7 +9,7 @@
 </pre>
 </p>
 !-->
-<h1 align="center">👾 spiegelin</h1>
+<h1 align="center">spiegelin</h1>
 <p align="center">
   <strong>Penetration Tester • Offensive Security • Trumpeter</strong><br/>
   📍 Macquarie University, Sydney, AU — Master of IT (Cybersecurity)<br/>
@@ -19,7 +19,7 @@
 
 ---
 
-## 👨‍💻 About me
+## 👾 About me
 - 🎓 Currently studying a **Master of IT in Cybersecurity** at **Macquarie University** (Sydney, AU)  
 - 🛠️ Focused on offensive security and red teaming
 - 🎺 Outside of hacking: I play the trumpet in a Mariachi group
