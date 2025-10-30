@@ -24,6 +24,7 @@
 - 🛠️ Focused on offensive security and red teaming
 - 🎺 Outside of hacking: I play the trumpet in a Mariachi group
 - 🔜 Next objective: OSEP & CRTO
+- 🐞 Just found my first CVE: CVE-2025-63290
 
 ---
 
